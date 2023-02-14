@@ -31,7 +31,7 @@ SUM of CA group by the column "Marca Proprie";
 
 After data set exploration I have to say that:
 
-- goods named "Fără marcă" are the most numberest;
+- goods called "Fără marcă" are the most numberest;
 
 - goods with "CA sub 10.000 lei" are the most present;
 
