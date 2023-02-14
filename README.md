@@ -31,13 +31,13 @@ SUM of CA group by the column "Marca Proprie";
 
 After data set exploration I have to say that:
 
-goods named "Fără marcă" are the most numberest;
+- goods named "Fără marcă" are the most numberest;
 
-goods with "CA sub 10.000 lei" are the most present;
+- goods with "CA sub 10.000 lei" are the most present;
 
-the price for most of the products rests unchanged;
+- the price for most of the products rests unchanged;
 
-the raion "GRADINA" has the 24% from CA.
+- the raion "GRADINA" has the 24% from CA.
 
 
 
