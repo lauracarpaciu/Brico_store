@@ -7,15 +7,15 @@ Excel data analysis:
 
 Excel Functions :
 
-the VLOOKUP which returns values in the column: "Marca proprie";
+ the VLOOKUP which returns values in the column: "Marca proprie";
 
-the IF function which returns values based on a true or false condition ;
+ the IF function which returns values based on a true or false condition ;
 
-the COUNTIF function which counts cells based on the values stored on the column "Interval Cifra de afaceri";
+ the COUNTIF function which counts cells based on the values stored on the column "Interval Cifra de afaceri";
 
-the AND function which returns TRUE if all prices are equal, else returns FALSE;
+ the AND function which returns TRUE if all prices are equal, else returns FALSE;
 
-PivotTable which organizes and analyzes data regarding CA / raion;
+ PivotTable which organizes and analyzes data regarding CA / raion;
 
 POWER BI :
 
